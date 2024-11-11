@@ -1,0 +1,4 @@
+train: images/train
+val: images/val
+nc: 2  # Número de classes (substitua pelo total de classes no seu dataset)
+names: ['cachorro', 'gato']  # Substitua pelos nomes das classes
